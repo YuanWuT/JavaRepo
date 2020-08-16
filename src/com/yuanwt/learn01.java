@@ -9,6 +9,7 @@ package com.yuanwt;
 public class learn01 {
     public static void main(String[] args) {
         System.out.println("lrarn01");
+        System.out.println("123");
 
     }
 }
